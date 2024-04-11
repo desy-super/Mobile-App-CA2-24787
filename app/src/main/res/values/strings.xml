@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieBooking24787-Desmond Oseme</string>
+    <string name="movie_starring">Starring</string>
+    <string name="movie_poster">Movie Image</string>
+    <string name="movie_seats">Movie Seats</string>
+    <string name="movie_seats_remaining">0</string>
+    <string name="select_seats_">0</string>
+    <string name="minus_button">minus button Icon</string>
+    <string name="SelectedSIts">0</string>
+    <string name="chair">seat</string>
+    <string name="seat_remaining">0</string>
+    <string name="seats_selected">0</string>
+    <string name="chair_icon">chair Icon</string>
+    <string name="movieTitle">Movie Title</string>
+    <string name="certification">Movie Certification</string>
+    <string name="description">Movie Description</string>
+    <string name="starring">Starring</string>
+    <string name="running_time_mins">Movie Running Time (Mins)</string>
+    <string name="plus_button">plus button icon</string>
+    <string name="RemainingSeats">0</string>
+</resources>
